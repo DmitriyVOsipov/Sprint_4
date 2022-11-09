@@ -20,7 +20,7 @@ public class ScooterTestOrdering {
     // Данные  Заказа
     private final String name = "Дмитрий";
     private final String surname = "Осипов";
-    private final String address = "Щёлково, Пролетарский проспект дом 3 квартира 159";
+    private final String address = "Щёлково, Пролетарский проспект дом 3, квартира 159";
     private final String phone = "89250914255";
     private final String metroStations = "Черкизовская";
     private final String whenDate = "11.11.2022";
